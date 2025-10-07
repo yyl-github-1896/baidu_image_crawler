@@ -1,4 +1,4 @@
-````
+
 # 🐼 Baidu Image Crawler (Python 3 Edition)
 
 **简体中文 | English**
@@ -46,7 +46,7 @@
 ```bash
 git clone https://github.com/yyl-github-1896/baidu_image_crawler.git
 cd baidu_image_crawler
-````
+```
 
 2. **运行脚本**
 
@@ -61,7 +61,5 @@ python baidu_img.py
 在 Python 3 环境下改写，并更新了百度图片接口定义，经过ChatGPT优化改写。
 
 > This code is **inspired by [wy315700/baidu_image_crawler](https://github.com/wy315700/baidu_image_crawler)**.
-> It has been **ported to Python 3**, updated with **Baidu API parameter changes**, and **optimized by ChatGPT** for improved stability and usability.
+> It has been ported to Python 3, updated with Baidu API parameter changes, and optimized by ChatGPT for improved stability and usability.
 
-```
-```
