@@ -7,11 +7,11 @@
 
 ## 📜 License 声明
 
-本代码依据 **GNU General Public License (GPL v3)** 发布。  
+本代码依据 **CC BY-NC 4.0** 发布。  
 ⚠️ **严禁任何形式的商业使用。**  
 本项目仅供 **科研、教学、学习与非营利性研究** 使用。  
 
-> This code is released under the **GNU General Public License (GPL v3)**.  
+> This code is released under the **CC BY-NC 4.0**.  
 > ⚠️ **Commercial use is strictly prohibited.**  
 > The software is provided **for academic, educational, and non-commercial research purposes only.**  
 > For any commercial applications, please consult the original author or use an alternative license.
