@@ -10,7 +10,6 @@
 本代码依据 **GNU General Public License (GPL v3)** 发布。  
 ⚠️ **严禁任何形式的商业使用。**  
 本项目仅供 **科研、教学、学习与非营利性研究** 使用。  
-如需商用，请联系原作者或使用符合商用许可的代码替代方案。
 
 > This code is released under the **GNU General Public License (GPL v3)**.  
 > ⚠️ **Commercial use is strictly prohibited.**  
